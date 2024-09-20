@@ -1,6 +1,6 @@
 ### Olá 👋
 
-Meu nome é Lucas, sou graduando em Estatística pela Universidade Estadual de Campinas (Unicamp) 📈. Ingressei no curso em 2021 por meio das vagas olímpicas e a previsão de conclusão do curso é dezembro de 2024 e, atualmente, estou em busca de estágio. 
+Meu nome é Lucas, sou graduando em Estatística pela Universidade Estadual de Campinas (Unicamp) 📈. Ingressei no curso em 2021 por meio das vagas olímpicas e a previsão de conclusão do curso é dezembro de 2024 e, atualmente, estou estagiando na Unilever. 
 Sobre mim:
  - 🚩 Nasci em Ponta Grossa (PR) e atualmente moro em Campinas;
  - 🥇 Durante o Ensino Médio, ganhei cerca de 15 medalhas em Olimpíadas do Conhecimento (você pode encontrar mais detalhes em http://lattes.cnpq.br/1027120468429725;
